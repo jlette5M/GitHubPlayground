@@ -1,2 +1,0 @@
-# ProgressNOW
-Current work
